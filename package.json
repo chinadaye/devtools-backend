@@ -18,7 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/yuezk/devtools-backend.git"
   },
-  "keywords": [],
+  "keywords": [
+    "chrome",
+    "devtools"
+  ],
   "author": "",
   "license": "BSD",
   "bugs": {
